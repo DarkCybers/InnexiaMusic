@@ -9,7 +9,7 @@ RUN npm i -g npm
 RUN mkdir /app/
 WORKDIR /app/
 RUN chmod a+rx /usr/local/bin/youtube-dl
-RUN curl -sL https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
+RUN curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl 
 COPY . /app/
 RUN pip3 install -U -r requirements.txt
 CMD python3 -m main.py

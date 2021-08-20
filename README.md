@@ -10,7 +10,7 @@
 ![logo](https://telegra.ph/file/41a6e6349c8f61a0e8250.jpg)
 #  💡Dᴇᴠᴇʟᴏᴩᴇᴍᴇɴᴛ•Sᴜᴩᴩᴏʀᴛ👥[Here !](https://t.me/SiderzChat)
 
-## Me On Telegram As [💥 Pᴀᴛʀɪᴄɪᴀ 💥](https://t.me/InnexiaBot)
+## Me On Telegram As [💥 INNEXIA 💥](https://t.me/InnexiaBot)
 
 ## Cᴏᴍᴍᴀɴᴅs
 ```

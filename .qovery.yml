@@ -1,0 +1,11 @@
+---
+application:
+  name: "InnexiaMusic"
+  project: "InnexiaMusic"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-innexiamusic"
+  routes:
+  - application_name: "innexiamusic"
+    paths:
+    - "/*"

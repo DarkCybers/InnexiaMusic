@@ -1,7 +1,7 @@
 import os
 from InnexiaMusic.config import SOURCE_CODE,ASSISTANT_NAME,PROJECT_NAME,SUPPORT_GROUP,UPDATES_CHANNEL
 class Messages():
-      START_MSG = "**Hello 👋 [{}](tg://user?id={})!**\n\n🔥`I Cᴀɴ Pʟᴀʏ Mᴜsɪᴄ Iɴ Yᴏᴜʀ Sᴇxʏ Gʀᴏᴜᴩ Vᴏɪᴄᴇ Cʜᴀᴛ.`\n\n`Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Aɴᴅ Pʟᴀʏ Mᴜsɪᴄ Fʀᴇᴇʟʏ!`\n\n**🎉 Sᴇɴᴅ Mᴇ** /help **Fᴏʀ Mᴏʀᴇ Iɴꜰᴏ.**"
+      START_MSG = "**Hello 👋 [{}](tg://user?id={})!**\n\n🔥`I Cᴀɴ Pʟᴀʏ Mᴜsɪᴄ Iɴ Yᴏᴜʀ Sᴇxʏ Gʀᴏᴜᴩ Vᴏɪᴄᴇ Cʜᴀᴛ @call_me_Vijay1.`\n\n`Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Aɴᴅ Pʟᴀʏ Mᴜsɪᴄ Fʀᴇᴇʟʏ!`\n\n**🎉 Sᴇɴᴅ Mᴇ** /help **Fᴏʀ Mᴏʀᴇ Iɴꜰᴏ.**"
       HELP_MSG = [
         ".",
 f"""

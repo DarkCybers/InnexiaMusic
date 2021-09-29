@@ -34,7 +34,7 @@ Get STRING_NAME from here:  [![GenerateString](https://img.shields.io/badge/repl
 
 ## Commands 🛠
 
-- `/play <song name>` - play song you requested
+- `/yt <song name>` - play song you requested
 - `/dplay <song name>` - play song you requested via deezer
 - `/splay <song name>` - play song you requested via jio saavn
 - `/playlist` - Show now playing list

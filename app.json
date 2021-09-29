@@ -31,7 +31,7 @@
     "SUPPORT_GROUP": {
       "description": "Your MusicPlayer support group without @ [Leave this if you don't have one]",
       "required": false,
-      "value": "SiderzChat"
+      "value": "Tamil_Chatting_2022"
     },
     "PROJECT_NAME": {
       "description": "Your MusicPlayer project Name.",

@@ -29,7 +29,7 @@ f"""
 
 **=>> Song Playing 🎧**
 
-- /play: Play the requestd song
+- /yt: Play the requestd song
 - /play [yt url] : Play the given yt url
 - /play [reply yo audio]: Play replied audio
 - /dplay: Play song via deezer
